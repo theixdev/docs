@@ -1,17 +1,4 @@
----
-type: rule
-archivedreason: 
-title: Do you know how users can interact with images?
-guid: 68d487e1-7707-45d1-aeea-ce3545de3c64
-uri: do-you-know-how-users-can-interact-with-images
-created: 2020-10-18T12:00:00.0000000Z
-authors:
-- title: Dale Chester
-  url: https://ssw.com.au/people/dale-chester
-related: []
-redirects: []
 
----
 
 How users can interact with an image is dependant on the context of the image and the intended user workflow.  Follow these guide lines to help you decide which interaction to use, to give your users the best experience you can.
 
