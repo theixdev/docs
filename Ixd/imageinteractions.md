@@ -4,7 +4,7 @@ How users can interact with an image is dependant on the context of the image an
 
 
 ### 1. Modal Image
-Modal Image is the ability to zoom a image in the same page via Modal.  Returning to the normal workflow should be done with a quick click or scroll.  A Modal Image should be indicated by a Magnifying Glass Cursor  when hovering over this image. 
+Modal Image is the ability to zoom a image in the same page via Modal.  Returning to the normal workflow should be done with a click, keyboard/mouse scroll or pressing the 'Escape' key.  A Modal Image should be indicated by a Magnifying Glass Cursor  when hovering over this image. 
 
 Modal Image should be used when:
 
